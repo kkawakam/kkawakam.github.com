@@ -298,6 +298,9 @@
 .svg .webicon.google {
   background: url("../images/webicons/webicon-google.svg"); }
 
+.svg .webicon.gmail {
+  background: url("http://www.google.com/images/icons/product/googlemail-32.png"); }
+
 .no-svg .webicon.googleplay {
   background: url("../images/webicons/webicon-googleplay-m.png"); }
 
